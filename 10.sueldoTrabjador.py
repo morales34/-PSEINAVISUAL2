@@ -9,7 +9,7 @@ print( "Mostrar el salario a pagar con un descuento del 20%")
 
 salario=float(input("Ingrese el salario:"))
 
-	
+	# estoy programa de git
 Descuento=(salario*0.2)
 	
 	
